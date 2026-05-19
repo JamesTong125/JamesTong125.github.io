@@ -74,9 +74,9 @@ export const ShowcaseSection = () => {
                         </div>
                         <div className="project" ref={project3Ref}>
                             <div className="image-wrapper bg-[#ffee7b]">
-                                <img src="/images/WIP.jpg" alt="Work in progress"/>
+                                <img src="/images/CubeStand.png" alt="Rubik's Cube Stand"/>
                             </div>
-                            <h2>WIP</h2>
+                            <h2>Rubik's Cube Assistive Stand</h2>
                         </div>
                     </div>
 
