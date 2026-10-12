@@ -53,13 +53,13 @@ export const ShowcaseSection = () => {
                     {/*left */}
                     <div className="first-project-wrapper" ref={project1Ref}>
                         <div className="image-wrapper">
-                            <img src="images/CubeStand.png" alt="CubeStand"/>
+                            <img src="images/GoalJournalApp.png" alt="Goal Journal App"/>
                         </div>
 
                         <div className="text-content">
-                            <h2>Rubik's Cubing stand</h2>
+                            <h2>Goal Journal App</h2>
                             <p className="text-white-50 md:text-xl">
-                                An assistive Rubik's Cubing stand designed for amputees and other individuals with limited upper body dexterity.
+                                A mobile app designed to help users track their goals and progress over time.
                             </p>
                         </div>
                     </div>
@@ -74,9 +74,9 @@ export const ShowcaseSection = () => {
                         </div>
                         <div className="project" ref={project3Ref}>
                             <div className="image-wrapper bg-[#ffee7b]">
-                                <img src="/images/WIP.jpg" alt="Work in progress"/>
+                                <img src="/images/CubeStand.png" alt="Rubik's Cube Stand"/>
                             </div>
-                            <h2>WIP</h2>
+                            <h2>Rubik's Cube Assistive Stand</h2>
                         </div>
                     </div>
 
